@@ -11,4 +11,4 @@ fiction or non-fiction. If additional shelves or books
 are added, this function will still work, as long as 
 the shelves are properties of the library.
 
- 
+(images/IMG_0040.JPG)
